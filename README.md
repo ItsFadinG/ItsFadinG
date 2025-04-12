@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/itsfading_" target="blank"><img src="https://img.shields.io/twitter/follow/itsfading_?logo=twitter&style=for-the-badge" alt="itsfading_" /></a> </p>
 
-- 🔭 I’m currently working on [ControlCase](https://www.controlcase.com/) as an **Associate Cyber Security Consultant**
+- 🔭 I’m currently working on [Versos](https://versos.com/) as a **Penetration Tester**
 
-- I am currently learning **Mobile Pentesing, OSWE, PCIDSS**
+- I am currently learning **Mobile Pentesing and Redteaming**
 
 - 📝 I regularly write articles on [https://itsfading.github.io](https://itsfading.github.io)
 
